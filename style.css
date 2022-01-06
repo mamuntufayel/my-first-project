@@ -1,4 +1,4 @@
-.sec-padding{
+.section-padding{
     padding-left: 5%;
     padding-bottom: 5%;
 }
@@ -9,18 +9,18 @@ h1{
    font-size: 3em;
     border-left: solid blue;
 }
-.top-section{
+
    
-}
+
 
 .half-width{
-    width: 50%;
+    width: 100%;
     display: flex;
-    text-align: justify;
+   
 
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
     
 }
 .anchor-deco{
@@ -29,11 +29,15 @@ h1{
 
 }
 h2{
-    padding-left: 15%;
+    text-align: center;
 }
 .div-padding-right{
     padding-right: 5%;
 }
 .div-padding-left{
     padding-left: 5%;
+}
+
+#move-center-apps-header{
+    text-align: center;
 }
